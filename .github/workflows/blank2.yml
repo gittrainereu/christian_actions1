@@ -37,5 +37,4 @@ jobs:
       - name: Run a multi-line script
         run: |
           #docker ps
-          ls -la
 
